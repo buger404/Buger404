@@ -8,7 +8,7 @@
 
 * 🐧QQ：1361778219
 
-* 📧邮箱：buger404@outlook.com
+* ✉️邮箱：buger404@outlook.com
 
 ⚠️仓库中标记**Archive**的为**弃坑**项目或早期开发（🚫黑历史）。
 
