@@ -6,11 +6,13 @@
 
 💃欢迎交朋友/合作：
 
-* <img src="https://im.qq.com/favicon.ico" width="18" height="18"/> QQ：1361778219
+* <img src="https://im.qq.com/favicon.ico" width="18" height="18"/> QQ： 1361778219
 
-* <img src="https://www.bilibili.com/favicon.ico" width="18" height="18"/> Bilibili：[Buger404](https://space.bilibili.com/313086171)
+* <img src="https://www.bilibili.com/favicon.ico" width="18" height="18"/> Bilibili： [Buger404](https://space.bilibili.com/313086171)
 
-* <img src="http://outlook.live.com/favicon.ico" width="18" height="18"/> 邮箱：buger404@outlook.com
+* <img src="http://outlook.live.com/favicon.ico" width="18" height="18"/> 邮箱： buger404@outlook.com
+
+* <img src="https://avatars.githubusercontent.com/u/89351098" width="18" height="18"/> Taptap： [森零制作组](https://www.taptap.com/developer/97100)
 
 ⚠️仓库中标记**Archive**的为**弃坑**项目或早期开发（🚫黑历史）。
 
