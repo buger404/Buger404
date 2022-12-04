@@ -14,6 +14,6 @@
 
 * <img src="https://avatars.githubusercontent.com/u/89351098" width="18" height="18"/> Taptap： [森零制作组](https://www.taptap.com/developer/97100)
 
-⚠️仓库中标记**Archive**的为**弃坑**项目或早期开发（🚫黑历史），这些项目不再改动，不再维护，若出现问题不会修复。
+⚠️仓库中标记**Archive**的为**弃坑**项目或早期开发（🚫黑历史），这些项目不再维护，若出现问题不会修复哦。
 
 <img align=left src="https://github-readme-stats.vercel.app/api?username=buger404&show_icons=true&hide_title=true&count_private=true&include_all_commits=true" />
