@@ -18,4 +18,4 @@
 
 <img align=left src="https://github-readme-stats.vercel.app/api?username=buger404&show_icons=true&hide_title=true&count_private=true&include_all_commits=true" />
 
-<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=buger404&layout=compact" />
+<img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=buger404&layout=compact" />
