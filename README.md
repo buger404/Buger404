@@ -17,5 +17,3 @@
 ⚠️仓库中标记**Archive**的为**弃坑**项目或早期开发（🚫黑历史），这些项目不再维护，若出现问题不会修复哦。
 
 <img align=left src="https://github-readme-stats.vercel.app/api?username=buger404&show_icons=true&hide_title=true&count_private=true&include_all_commits=true" />
-
-<img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=buger404&layout=compact" />
